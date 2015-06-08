@@ -1,3 +1,9 @@
+// pdel
+// 
+//
+// IDECodeSnippetIdentifier: 01727147-8BC9-434C-A46A-69E410C817EE
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "UIPickerViewDelegate"
 summary: "Placeholders for required UIPickerView Delegate methods"

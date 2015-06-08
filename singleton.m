@@ -1,3 +1,9 @@
+// singleton
+// 
+//
+// IDECodeSnippetIdentifier: C9E164B0-8A55-426C-B22A-1CC7DDF7655D
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "Shared Singleton"
 summary: "Class method that returns a singleton instance"
