@@ -1,5 +1,5 @@
 // weak self
-// 
+// create a weak self
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: EA6B2194-B501-4108-BDA3-0774EFE087ED
