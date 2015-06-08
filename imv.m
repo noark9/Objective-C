@@ -1,9 +1,11 @@
 // imv
 // 
 //
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 4BC41C66-4BA8-4563-A92D-9AB8102EA65D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 ---
 title: "ImageView"
 summary: "Create & Initialize UIImageView with Named Image"
